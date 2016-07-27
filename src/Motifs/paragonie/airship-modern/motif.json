@@ -1,0 +1,10 @@
+{
+  "supplier": "paragonie",
+  "name": "airship-modern",
+  "display_name": "Airship Modern",
+  "base_template": "modern_base.twig",
+  "css": [
+    "style.css"
+  ],
+  "version": "2.0.0"
+}
